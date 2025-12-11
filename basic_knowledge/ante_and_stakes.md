@@ -2,7 +2,7 @@
 title: 底注与赌注
 description: 
 published: true
-date: 2025-12-11T05:52:08.757Z
+date: 2025-12-11T05:52:29.939Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T09:13:21.349Z
@@ -104,5 +104,5 @@ dateCreated: 2025-04-16T09:13:21.349Z
 |<center><b>38|<center><b>4.5E+288|<center><b>9.0E+288|<center><b>1.8E+289|
 |<center><b>39|<center><b>Nan|<center><b>Nan|<center><b>Nan|
 
-由于39注开始需求分数超过了e308，原版情况下得分无论多少都会失败，即使是nan。
+由于39注开始需求分数超过了e308，所以结果显示为Nan，原版情况下得分无论多少都会失败，即使是nan。
 [返回上一级章节](/basic_knowledge)
