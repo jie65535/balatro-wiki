@@ -2,7 +2,7 @@
 title: 底注与赌注
 description: 
 published: true
-date: 2025-12-11T03:41:59.437Z
+date: 2025-12-11T05:52:08.757Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T09:13:21.349Z
@@ -93,7 +93,16 @@ dateCreated: 2025-04-16T09:13:21.349Z
 |<center><b>27|<center><b>8.4E+109|<center><b>1.6E+110|<center><b>3.3E+110|
 |<center><b>28|<center><b>2.0E+122|<center><b>4.0E+122|<center><b>8.1E+122|
 |<center><b>29|<center><b>2.7E+135|<center><b>5.5E+135|<center><b>1.1E+136|
-
+|<center><b>30|<center><b>2.1E+149|<center><b>4.3E+149|<center><b>8.6E+149|
+|<center><b>31|<center><b>9.9E+163|<center><b>1.9E+164|<center><b>3.9E+164|
+|<center><b>32|<center><b>2.7E+179|<center><b>5.4E+179|<center><b>1.0E+180|
+|<center><b>33|<center><b>4.4E+195|<center><b>8.9E+195|<center><b>1.7E+196|
+|<center><b>34|<center><b>4.4E+212|<center><b>8.9E+212|<center><b>1.7E+213|
+|<center><b>35|<center><b>2.8E+230|<center><b>5.6E+230|<center><b>1.1E+231|
+|<center><b>36|<center><b>1.1E+249|<center><b>2.2E+249|<center><b>4.4E+249|
+|<center><b>37|<center><b>2.7E+268|<center><b>5.6E+268|<center><b>1.1E+269|
+|<center><b>38|<center><b>4.5E+288|<center><b>9.0E+288|<center><b>1.8E+289|
+|<center><b>39|<center><b>Nan|<center><b>Nan|<center><b>Nan|
 
 由于39注开始需求分数超过了e308，原版情况下得分无论多少都会失败，即使是nan。
 [返回上一级章节](/basic_knowledge)
