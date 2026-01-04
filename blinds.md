@@ -2,7 +2,7 @@
 title: 盲注
 description: 
 published: true
-date: 2025-09-18T07:18:52.905Z
+date: 2026-01-04T06:49:22.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T01:33:56.518Z
@@ -41,7 +41,7 @@ dateCreated: 2025-04-16T01:33:56.518Z
 |<center>**标记**|![标记.png](/盲注/标记.png)|<center>**所有人头牌都是背面朝上抽取**|<center>**2**|<center>**×2**|<center>**<font color='EAC100'>$5</font>**|<center>**不能**|<center>**被<font color='EAC100'>希科</font>、<font color='EAC100'>摔跤手</font>移除效果后，原本已经背面朝上的牌会翻面回来**|
 |<center>**琥珀之实**|![琥珀之实.png](/盲注/琥珀之实.png)|<center>**翻转并洗乱所有小丑牌**|<center>**仅出现于8的倍数的底注**|<center>**×2**|<center>**<font color='EAC100'>$8</font>**|<center>**不能**|<center>**有<font color='EAC100'>希科</font>的情况下，琥珀之实会先翻转并洗乱所有小丑牌，然后被<font color='EAC100'>希科</font>削弱，翻回正面。在进入该盲注时，可以在洗乱所有小丑牌之前抓起1张小丑牌，该小丑牌不会被琥珀之实洗乱。被琥珀之实翻转后的小丑牌，部分小丑具有特殊形状，包括<font color='EAC100'>照片</font>、<font color='EAC100'>方形小丑</font>、<font color='EAC100'>半张小丑</font>、<font color='EAC100'>小小丑</font>，而<font color='EAC100'>模具小丑</font>在翻面后并不是镂空的。通过复制得到的小丑牌将会默认为红色牌组的牌背，这是一个bug，回到主页面再重新回到赛局牌背会恢复正常。被琥珀之实翻转后的小丑牌无法查看售价，显示价格为？$**|
 |<center>**翠绿之叶**|![翠绿之叶.png](/盲注/翠绿之叶.png)|<center>**所有游戏牌都被削弱，直至售出1张小丑牌**|<center>**仅出现于8的倍数的底注**|<center>**×2**|<center>**<font color='EAC100'>$8</font>**|<center>**打出被削弱的牌能触发**|<center>**无**|
-|<center>**靛紫之杯**|![靛紫之杯.png](/盲注/靛紫之杯.png)|<center>**所有游戏牌都被削弱，直至售出1张小丑牌**|<center>**仅出现于8的倍数的底注**|<center><font color=red>**×6**</font>|<center>**<font color='EAC100'>$8</font>**|<center>**不能**|<center>**被<font color='EAC100'>摔跤手</font>移除效果后，分数需求会变为×2，被<font color='EAC100'>希科</font>影响时，每有1张<font color='EAC100'>希科</font>，分数会变为原本的1/3**|
+|<center>**靛紫之杯**|![靛紫之杯.png](/盲注/靛紫之杯.png)|<center>**超大盲注**|<center>**仅出现于8的倍数的底注**|<center><font color=red>**×6**</font>|<center>**<font color='EAC100'>$8</font>**|<center>**不能**|<center>**被<font color='EAC100'>摔跤手</font>移除效果后，分数需求会变为×2，被<font color='EAC100'>希科</font>影响时，每有1张<font color='EAC100'>希科</font>，分数会变为原本的1/3**|
 |<center>**绯红之心**|![绯红之心.png](/盲注/绯红之心.png)|<center>**每次出牌前随机使1张小丑牌失效**|<center>**仅出现于8的倍数的底注**|<center>**×2**|<center>**<font color='EAC100'>$8</font>**|<center>**打出被削弱的牌能触发**|<center>**绯红之心不能削弱<font color='EAC100'>希科</font>。每次出牌后，会削弱1张新的小丑牌，原本的小丑牌恢复正常。每次出牌削弱的小丑牌都与上一次不相同**|
 |<center>**蔚蓝之铃**|![蔚蓝之铃.png](/盲注/蔚蓝之铃.png)|<center>**迫使1张牌总是被选中**|<center>**仅出现于8的倍数的底注**|<center>**×2**|<center>**<font color='EAC100'>$8</font>**|<center>**不能**|<center>**每次出牌和弃牌后都会强制选中1张牌。使用<font color=purple>死神</font>使1张游戏牌复制蔚蓝之铃强制选中的牌，复制后的牌也会被强制选中，使用<font color=purple>死神</font>使蔚蓝之铃强制选中的牌复制1张其他游戏牌，复制后的牌仍然会被强制选中。使用<font color=purple>倒吊人</font>摧毁蔚蓝之铃强制选中的牌，在下次进行出牌或弃牌之前可以自由选择游戏牌。强制选中1张牌意味着<font color=purple>战车</font>、<font color=purple>恶魔</font>、<font color=purple>塔</font>、<font color=purple>恋人</font>等单一目标的消耗牌将只能以强制选中的牌为目标**|
 
