@@ -2,7 +2,7 @@
 title: 小丑牌
 description: 
 published: true
-date: 2025-11-04T02:00:46.890Z
+date: 2026-01-16T03:58:48.809Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T01:27:11.728Z
@@ -17,7 +17,7 @@ dateCreated: 2025-04-16T01:27:11.728Z
 |![小丑.png](/小丑牌/小丑.png)|![太空小丑.png](/小丑牌/太空小丑.png)|![蓝图.png](/小丑牌/蓝图.png)|![希科.png](/小丑牌/希科.png)|
 
 # 小丑牌效用分类跳转
-| [+倍率小丑](/joker/other_joker_list/mult_plus_joker) | [×倍率小丑](/joker/other_joker_list/multiplicative_mult_jokers) | 筹码小丑 | 经济小丑 | 重复触发类小丑 | 其他功能类小丑 |
+| [+倍率小丑](/joker/other_joker_list/mult_plus_joker) | [×倍率小丑](/joker/other_joker_list/multiplicative_mult_jokers) | [筹码小丑](/joker/other_joker_list/chip_joker) | 经济小丑 | 重复触发类小丑 | 其他功能类小丑 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 |![抽象小丑.png](/小丑牌/抽象小丑.png)|![老千小丑.png](/小丑牌/老千小丑.png)|![跑步选手.png](/小丑牌/跑步选手.png)|![黄金小丑.png](/小丑牌/黄金小丑.png)|![哑剧演员.png](/小丑牌/哑剧演员.png)|![流浪汉.png](/小丑牌/流浪汉.png)|
 
