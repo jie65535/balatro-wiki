@@ -2,7 +2,7 @@
 title: 底注与赌注
 description: 
 published: true
-date: 2026-01-17T06:11:57.299Z
+date: 2026-02-26T08:49:50.574Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-16T09:13:21.349Z
@@ -54,7 +54,7 @@ dateCreated: 2025-04-16T09:13:21.349Z
 |<center><b>5|<center><b>11000|<center><b>20000|<center><b>25000|
 |<center><b>6|<center><b>25000|<center><b>36000|<center><b>60000|
 |<center><b>7|<center><b>35000|<center><b>60000|<center><b>110000|
-|<center><b>8|<center><b>50000|<center><b>10000|<center><b>200000|
+|<center><b>8|<center><b>50000|<center><b>100000|<center><b>200000|
 
 ### 历史版本
 •1.0.1f版本
