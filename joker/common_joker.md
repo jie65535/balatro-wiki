@@ -2,7 +2,7 @@
 title: 普通小丑
 description: 
 published: true
-date: 2025-11-04T01:59:57.013Z
+date: 2026-02-27T10:44:59.171Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-14T14:55:39.085Z
@@ -55,7 +55,6 @@ dateCreated: 2025-05-14T14:55:39.085Z
 |<center>![叠加态.png](/小丑牌/叠加态.png)|<center>[叠加态](/joker/common_joker/superposition)|<center>如果打出的牌包含1张A和<font color=LightSeaGreen>顺子</font>，生成1张随机<font color=purple>塔罗牌</font>（必须有空位）|<center>$ 4|<center>普通|
 |<center>![待办清单.png](/小丑牌/待办清单.png)|<center>[待办清单](/joker/common_joker/to_do_list)|<center>如果打出的牌型为（对应牌型），获得<font color='EAC100'>$ 4</font>，每个回合结束时要求的牌型都会随机改变|<center>$ 4|<center>普通|
 |<center>![卡文迪什.png](/小丑牌/卡文迪什.png)|<center>[卡文迪什](/joker/common_joker/cavendish)|<center><font color=red>×3倍率</font>，回合结束时有<font color=DarkTurquoise>1/1000</font>的概率摧毁此牌|<center>$ 4|<center>普通|
-|<center>![老千小丑.png](/小丑牌/老千小丑.png)|<center>老千小丑|<center>如果打出的牌型在本回合中已经打出过，则给予<font color=red>×3倍率</font>|<center>$ 6|<center>罕见|
 |<center>![红牌.png](/小丑牌/红牌.png)|<center>[红牌](/joker/common_joker/red_card)|<center>每次在补充包中按下跳过键，这张小丑牌获得<font color=red>+3倍率</font>（起始<font color=red>+0倍率</font>）|<center>$ 5|<center>普通|
 |<center>![方形小丑.png](/小丑牌/方形小丑.png)|<center>[方形小丑](/joker/common_joker/square_joker)|<center>如果打出的牌的数量为4张，这张小丑获得<font color='#0080FF'>+4筹码</font>（起始<font color='#0080FF'>+0筹码</font>）|<center>$ 4|<center>普通|
 |<center>![乌合之众.png](/小丑牌/乌合之众.png)|<center>[乌合之众](/joker/common_joker/riff_raff)|<center>选择盲注时，生成2张随机普通小丑牌|<center>$ 6|<center>普通|
